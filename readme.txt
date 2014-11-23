@@ -1,4 +1,4 @@
-=== Member Mailbox ===
+﻿=== Member Mailbox ===
 Contributors: cbfreeman
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BAZNKCE6Q78PJ
 Tags: messages, messenger, emails, html emails, mail, multisite
@@ -51,15 +51,15 @@ Member Mailbox is currently available in :
 * English
 
 I'm looking for translators to extend to other languages. If you have translated the plugin in your language or want to,
-please let me know : wp_promo_mail [ at ] cbfreeman.com
+please let me know : member_mailbox[ at ] cbfreeman.com
 
 = Contributing =
-Member Mailbox is also available on [http://cbfreeman.com/downloads/messenger/]cbfreeman
+Member Mailbox is also available on [cbfreeman](http://cbfreeman.com/downloads/messenger/)
 
 
 == Installation ==
 
-1. Simply install and activate the plugin for your users to see a new ‘Mailbox’ menu item on the Wp admin menu.
+1. Simply install and activate the plugin for your users to see a new â€˜Mailboxâ€™ menu item on the Wp admin menu.
 3. Navigate to 'Dashboard > Mailbox' to create mail.
 4. Now your users can communicate with each other on WordPress!
 
