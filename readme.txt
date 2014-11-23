@@ -80,15 +80,12 @@ Just use the Wordpress automatic plugin update system
 == Frequently Asked Questions ==
 
 
-= Inboxes for everyone =
-
 == Screenshots ==
 
 1. Give users a great communication tool with the options to view, reply or remove messages at will.
 2. The other user receives an email notifying them of a new message!
 3. Sending a new message is as simple as adding the person(s) username, writing your message and clicking Send!
-4. Or they can switch off email notifications via their notification page (if they
-prefer).
+4. Or they can switch off email notifications via their notification.
 
 
 == Changelog ==
