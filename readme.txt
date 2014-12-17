@@ -3,7 +3,7 @@ Contributors: cbfreeman
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BAZNKCE6Q78PJ
 Tags: messages, messenger, emails, html emails, mail, multisite
 Requires at least: 3.0
-Tested up to: 4.0
+Tested up to: 4.1
 Stable tag: 1.1
 License: GPLz3
 
@@ -83,8 +83,8 @@ Just use the Wordpress automatic plugin update system
 == Screenshots ==
 
 1. Give users a great communication tool with the options to view, reply or remove messages at will.
-2. The other user receives an email notifying them of a new message!
-3. Sending a new message is as simple as adding the person(s) username, writing your message and clicking Send!
+2. The other user receives an email notifying them of a new message.
+3. Sending a new message is as simple as adding the person(s) username, writing your message and clicking Send.
 4. Or they can switch off email notifications via their notification.
 
 
